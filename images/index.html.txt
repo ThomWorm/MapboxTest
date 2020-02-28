@@ -19,7 +19,7 @@
 
 <script>
 //Sets up the map
-mapboxgl.accessToken = '<YOUR MAPBOX TOKEN>';
+mapboxgl.accessToken = 'pk.eyJ1IjoidGhvbXdvcm0iLCJhIjoiY2s2bDY1ZXJyMDhrbTNqbjB6YWV4ZG91dyJ9.RRKk7tlQbdvJBLWnXwG9QA';
 var map = new mapboxgl.Map({
     container: 'map',
     zoom: 12,
